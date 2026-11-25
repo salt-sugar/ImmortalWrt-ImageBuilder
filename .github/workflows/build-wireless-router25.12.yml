@@ -48,6 +48,7 @@ on:
           - jdcloud_re-cp-03
           - xiaomi_mi-router-ax3000t
           - xiaomi_mi-router-ax3000t-ubootmod
+          - xiaomi_mi-router-ax3000t-112m
           - xiaomi_mi-router-wr30u-stock
           - xiaomi_mi-router-wr30u-ubootmod
           - xiaomi_mi-router-wr30u-112m-nmbm
